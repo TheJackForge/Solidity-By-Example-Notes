@@ -4,7 +4,7 @@
 
 pragma solidity ^0.8.13;
 
-import "/EnumDeclaration.sol";
+import "0014a-Declaring-and-Importing-Enum.sol";
 
 contract Enum {
     Status public status;
